@@ -57,6 +57,13 @@ This analysis is based on the COVID-19 datasets available at the time of writing
 
 This project is licensed under the [MIT License](LICENSE).
 
+### Note about Visuals
+
+Due to limitations in displaying dynamic content directly in the Jupyter Notebook on GitHub, some of the visualizations may not be visible in the notebook preview. However, you can find all the visualizations and interactive plots in the [Jupyter Notebook](https://github.com/Subiya101/COVID-19-Data-Analysis/blob/main/covid-19.ipynb) file.
+
+In the Jupyter Notebook, you will be able to see the complete analysis, including all the charts and visuals that may not be visible in the GitHub preview. To view the notebook, click on the "Open in Jupyter Notebook" button above. Alternatively, you can download the notebook and run it on your local machine to view the visuals interactively.
+
+For any questions or clarifications, feel free to reach out. Happy exploring!
 
 
 ![Screenshot 2023-08-07 140743](https://github.com/Subiya101/COVID-19-Data-Analysis/assets/136356321/29a9c3b8-113b-4e6d-b639-d4e45833e1e3)
