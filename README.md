@@ -1,4 +1,3 @@
-Creating a README for a Jupyter Notebook on GitHub is a good way to provide information and instructions to users who may visit your repository. Here's a template for a simple README for your Jupyter Notebook on COVID-19 data analysis:
 
 # COVID-19 Data Analysis with Jupyter Notebook
 
