@@ -57,6 +57,5 @@ This analysis is based on the COVID-19 datasets available at the time of writing
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Feel free to add more details or sections as needed. The above README provides a brief overview of the project and instructions for running the notebook.
+
