@@ -1,5 +1,5 @@
 
-# COVID-19 Data Analysis with Jupyter Notebook
+# COVID-19 Data Analysis with Jupyter Notebook and power bi
 
 ![COVID-19](https://img.shields.io/badge/COVID--19-Data%20Analysis-blue)
 
